@@ -22,92 +22,20 @@
                 <div class="col-lg-4 col-md-6 mx-auto my-3">
                     <div class="feature-list shadow">
                         <div class="cardimagefeature">
-                            <img src="asset/img/property-1.jpg" alt="">
+                            <img src="asset/img/face.jpg" alt="">
                         </div>
                         <div class="text-right">
                             <h4 class="h5">$10,990</h4>
                         </div>
                         <div class="d-flex justify-content-between mb-4">
                             <div class="item">
-                                <h4 class="h5 m-0">Palace</h4>
-                                <p class="m-0">City, Country</p>
+                                <h4 class="h5 m-0">Agent Dan Antonio</h4>
+                                <p class="m-0">Vegas, America</p>
                             </div>
                             <div class="item d-flex align-self-center">
-                                <i class="fas fa-bed mr-2 align-self-center"></i>
-                                <span class="mr-3">5</span>
-                                <i class="fas fa-bath mr-2 align-self-center"></i>
-                                <span>3</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 mx-auto my-3">
-                    <div class="feature-list shadow">
-                        <div class="cardimagefeature">
-                            <img src="asset/img/flat.jpg" alt="">
-                        </div>
-                        <div class="text-right">
-                            <h4 class="h5">$10,990</h4>
-                        </div>
-                        <div class="d-flex justify-content-between mb-4">
-                            <div class="item">
-                                <h4 class="h5 m-0">Palace</h4>
-                                <p class="m-0">City, Country</p>
-                            </div>
-                            <div class="item d-flex align-self-center">
-                                <i class="fas fa-bed mr-2 align-self-center"></i>
-                                <span class="mr-3">5</span>
-                                <i class="fas fa-bath mr-2 align-self-center"></i>
-                                <span>3</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 mx-auto my-3">
-                    <div class="feature-list shadow">
-                        <div class="cardimagefeature">
-                            <a href="ME.html"><img src="asset/img/property-3.jpg" alt=""></a>
-                        </div>
-                        <div class="text-right">
-                            <h4 class="h5">$10,990</h4>
-                        </div>
-                        <div class="d-flex justify-content-between mb-4">
-                            <div class="item">
-                                <h4 class="h5 m-0">Palace</h4>
-                                <p class="m-0">City, Country</p>
-                            </div>
-                            <div class="item d-flex align-self-center">
-                                <i class="fas fa-bed mr-2 align-self-center"></i>
-                                <span class="mr-3">5</span>
-                                <i class="fas fa-bath mr-2 align-self-center"></i>
-                                <span>3</span>
                                 
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="col-lg-4 col-md-6 mx-auto my-3">
-                    <div class="feature-list shadow">
-                        <div class="cardimagefeature">
-                            <img src="asset/img/home-pic-1.jpg" alt="">
-                        </div>
-                        <div class="text-right">
-                            <h4 class="h5">$10,990</h4>
-                        </div>
-                        <div class="d-flex justify-content-between mb-4">
-                            <div class="item">
-                                <h4 class="h5 m-0">Palace</h4>
-                                <p class="m-0">City, Country</p>
-                            </div>
-                            <div class="item d-flex align-self-center">
-                                <i class="fas fa-bed mr-2 align-self-center"></i>
-                                <span class="mr-3">5</span>
-                                <i class="fas fa-bath mr-2 align-self-center"></i>
-                                <span>3</span>
+                                <i class="fas fa-home mr-2 align-self-center"></i>
+                                <span>15</span>
                             </div>
                         </div>
                     </div>
@@ -116,21 +44,20 @@
                 <div class="col-lg-4 col-md-6 mx-auto my-3">
                     <div class="feature-list shadow">
                         <div class="cardimagefeature">
-                            <img src="asset/img/home-pic-2.jpg" alt="">
+                            <img src="asset/img/wface.jpg" alt="">
                         </div>
                         <div class="text-right">
                             <h4 class="h5">$10,990</h4>
                         </div>
                         <div class="d-flex justify-content-between mb-4">
                             <div class="item">
-                                <h4 class="h5 m-0">Palace</h4>
-                                <p class="m-0">City, Country</p>
+                                <h4 class="h5 m-0">Agent Dan Antonio</h4>
+                                <p class="m-0">Vegas, America</p>
                             </div>
                             <div class="item d-flex align-self-center">
-                                <i class="fas fa-bed mr-2 align-self-center"></i>
-                                <span class="mr-3">5</span>
-                                <i class="fas fa-bath mr-2 align-self-center"></i>
-                                <span>3</span>
+                                
+                                <i class="fas fa-home mr-2 align-self-center"></i>
+                                <span>15</span>
                             </div>
                         </div>
                     </div>
@@ -139,25 +66,92 @@
                 <div class="col-lg-4 col-md-6 mx-auto my-3">
                     <div class="feature-list shadow">
                         <div class="cardimagefeature">
-                            <img src="asset/img/home-pic-3.jpg" alt="">
+                            <img src="asset/img/face1.jpg" alt="">
                         </div>
                         <div class="text-right">
                             <h4 class="h5">$10,990</h4>
                         </div>
                         <div class="d-flex justify-content-between mb-4">
                             <div class="item">
-                                <h4 class="h5 m-0">Palace</h4>
-                                <p class="m-0">City, Country</p>
+                                <h4 class="h5 m-0">Agent Dan Antonio</h4>
+                                <p class="m-0">Vegas, America</p>
                             </div>
                             <div class="item d-flex align-self-center">
-                                <i class="fas fa-bed mr-2 align-self-center"></i>
-                                <span class="mr-3">5</span>
-                                <i class="fas fa-bath mr-2 align-self-center"></i>
-                                <span>3</span>
+                                
+                                <i class="fas fa-home mr-2 align-self-center"></i>
+                                <span>15</span>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <div class="col-lg-4 col-md-6 mx-auto my-3">
+                    <div class="feature-list shadow">
+                        <div class="cardimagefeature">
+                            <img src="asset/img/wface1.jpg" alt="">
+                        </div>
+                        <div class="text-right">
+                            <h4 class="h5">$10,990</h4>
+                        </div>
+                        <div class="d-flex justify-content-between mb-4">
+                            <div class="item">
+                                <h4 class="h5 m-0">Agent Dan Antonio</h4>
+                                <p class="m-0">Vegas, America</p>
+                            </div>
+                            <div class="item d-flex align-self-center">
+                                
+                                <i class="fas fa-home mr-2 align-self-center"></i>
+                                <span>15</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mx-auto my-3">
+                    <div class="feature-list shadow">
+                        <div class="cardimagefeature">
+                            <img src="asset/img/face2.jpg" alt="">
+                        </div>
+                        <div class="text-right">
+                            <h4 class="h5">$10,990</h4>
+                        </div>
+                        <div class="d-flex justify-content-between mb-4">
+                            <div class="item">
+                                <h4 class="h5 m-0">Agent Dan Antonio</h4>
+                                <p class="m-0">Vegas, America</p>
+                            </div>
+                            <div class="item d-flex align-self-center">
+                                
+                                <i class="fas fa-home mr-2 align-self-center"></i>
+                                <span>15</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mx-auto my-3">
+                    <div class="feature-list shadow">
+                        <div class="cardimagefeature">
+                            <img src="asset/img/wface2.jpg" alt="">
+                        </div>
+                        <div class="text-right">
+                            <h4 class="h5">$10,990</h4>
+                        </div>
+                        <div class="d-flex justify-content-between mb-4">
+                            <div class="item">
+                                <h4 class="h5 m-0">Agent Dan Antonio</h4>
+                                <p class="m-0">Vegas, America</p>
+                            </div>
+                            <div class="item d-flex align-self-center">
+                                
+                                <i class="fas fa-home mr-2 align-self-center"></i>
+                                <span>15</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+               
             </div>
             
         </div>
